@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+.header-section{
+    height: 150px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-bar{
+   
+    width: 1000px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-bar h2 a{
+    color: black;
+    font-size: 60px;
+    margin: ;
+}
+.nav-bar nav ul li{
+   display: inline-block;
+}
+.nav-bar nav ul li a{
+    color: black;
+    font-size: 25px;
+    padding: 10px;
+    
+}
